@@ -7,4 +7,4 @@
 * - npm run watch
 * - php -S localhost:8000 -t public
 * provide you pusher key & secret & options in [.env file and resources/assests/js/bootstrap.js] files
-* then go to https://localhost:8000/chat and enjoy chatting
+* then go to http://localhost:8000/chat and enjoy chatting
